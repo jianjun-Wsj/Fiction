@@ -1,0 +1,7 @@
+interface:
+  display_name: "田园修仙写作"
+  short_description: "续写方辰与太虚种的田园修仙长篇"
+  default_prompt: "Use $write-xianxia-epic to continue 《逆骨问仙》 with Fang Chen, Yunxi Village, the Taixu Seed, and fast chapter hooks."
+
+policy:
+  allow_implicit_invocation: true
